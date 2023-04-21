@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-5-vertical-tabs",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Responsive vertical tabs navigation component for Bootstrap 5",
   "main": "./dist/index.html",
   "jsdelivr": "./dist/b5vtabs.min.css",
@@ -21,7 +21,7 @@
   "repository": "https://github.com/tromgy/bootstrap-5-vertical-tabs.git",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^5.0.1",
+    "bootstrap": "^5.2.3",
     "sass": "1.32.x"
   },
   "devDependencies": {
